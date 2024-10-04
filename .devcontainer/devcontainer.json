@@ -6,7 +6,8 @@
 				"mhutchie.git-graph",
 				"ms-vscode.live-server",
 				"esbenp.prettier-vscode",
-				"CS50.extension-uninstaller"
+				"CS50.extension-uninstaller",
+				"ritwickdey.LiveServer"
 			]
 		}
 	}
