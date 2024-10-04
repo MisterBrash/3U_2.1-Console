@@ -1,18 +1,14 @@
+### 2.1 - Output & the Console
+###### ICS3U - Mr. Brash 🐿️
 
-
-📝 Your Tasks:
+# 📝 Your Tasks:
 (Read carefully and work with a partner if you are struggling - ask Mr. Brash only after asking a classmate)
 
-- Open VSCode.
-- Go to FILE > Close Folder (if that option exists)
-- Go to FILE > Open Folder
-  - Create a new folder called "Unit 1" and select that
-- Add a new file to VSCode
-  - Name the new file "1.1 - Output.js"
+- This repo has been setup already for you with an [HTML page](./index.html) and a [JavaScript code file](./script.js).
+- When you preview the HTML page, the JavaScript will run in the background after the page loads!
+- Use the developer tools (`CTRL+SHIFT+J` or `Menu > More Tools > Developer Tools`) to get to the console.
 
-Now try the following coding tasks and "run" your code to test the output:
-
-#### 1. Add the appropriate code(s) to the JavaScript file `1.1 - Output.js` that will print the address for Apple Inc.:
+#### 1. Add the appropriate code(s) to the JavaScript file [`script.js`](./script.js) that will print the address for Apple Inc.:
 >Apple Inc.<br>One Apple Park Way<br>Cupertino, CA<br>95014<br>+1 408-996-1010
 
 #### 2. Output two blank lines (to separate task 1 and 3)
