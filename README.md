@@ -1,12 +1,9 @@
 # 2.1 - Output & the Console
 ###### ICS3U - Mr. Brash 🐿️
 
-Congratulations - we wrote the [Hello World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) together!
+Congratulations - we wrote the [Hello World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) together! If you missed that - go to [Mr. Brash's website](https://www.brash.ca/ics3/2/1).
 
-[**JavaScript**](https://www.w3schools.com/js/):
-```JS
-console.log("Hello World!");
-```
+<hr><br>
 
 The command `console.log()` is how we write output to the _developer console_. You can put words, numbers, and more inside the brackets to have them show up on the screen. For words (characters) we need to use quotation marks:  `console.log(" ")` but for numbers we can just put the value: `console.log(3.14)`
 
@@ -38,7 +35,7 @@ console.log("Line 1.\nThis is \"text\"");
 ```
 One last thing - every time you use the `console.log( )` command, it automatically adds a new line (\n) at the end.
 
-
+### Go check out [your task](./YOUR_TASK.md).
 
 <br><br>
 
