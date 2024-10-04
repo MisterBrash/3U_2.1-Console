@@ -1,5 +1,5 @@
 ### 2.1 - Output & the Console
-###### ICS3U - Mr. Brash 🐿️
+###### ICS3 - Mr. Brash 🐿️
 
 # 📝 Your Tasks:
 (Read carefully and work with a partner if you are struggling - ask Mr. Brash only after asking a classmate)
