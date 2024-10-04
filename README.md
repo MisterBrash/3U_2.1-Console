@@ -1,5 +1,5 @@
 # 2.1 - Output & the Console
-###### ICS3U - Mr. Brash 🐿️
+###### ICS3 - Mr. Brash 🐿️
 
 Congratulations - we wrote the [Hello World! program](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) together! If you missed that - go to [Mr. Brash's website](https://www.brash.ca/ics3/2/1).
 
