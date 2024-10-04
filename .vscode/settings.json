@@ -33,5 +33,10 @@
         "sourcegraph.cody-ai",
         "timkmecl.codegpt3",
         "timkmecl.chatgpt"
-    ]
+    ],
+    "files.exclude": {
+        "LICENSE": true,
+        ".devcontainer/": true,
+        ".vscode/": true
+    }
 }
